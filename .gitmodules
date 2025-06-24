@@ -1,0 +1,6 @@
+[submodule "libfranka"]
+	path = libfranka
+	url = https://github.com/frankaemika/libfranka.git
+[submodule "ruckig"]
+	path = ruckig
+	url = https://github.com/pantor/ruckig.git
